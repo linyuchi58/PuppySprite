@@ -15,11 +15,13 @@
 
 <br/>
 
-[![Download EXE](https://img.shields.io/badge/💻_點此下載-自動安裝版_(.exe)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/latest/download/安裝Puppy精靈.exe)
-&nbsp;&nbsp;
-[![Download ZIP](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(.zip)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/latest)
+[![Download EXE](https://img.shields.io/badge/💻_點此下載-exe安裝版_(推薦)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.8.0/PuppySpriteInstall_v2.8.exe)
+&nbsp;
+[![Download EXE ZIP](https://img.shields.io/badge/📦_點此下載-exe安裝版_(Zip壓縮包)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.8.0/PuppySpriteInstall_v2.8.zip)
+&nbsp;
+[![Download Portable](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(Zip解壓即用)-brightgreen?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.8.0/PuppySprite_v2.8.0_.zip)
 
-<sub>👉 個人/家用電腦推薦下載 **安裝版 (.exe)**；學校公用/無權限電腦推薦下載 **免安裝綠色版 (.zip)**</sub>
+<sub>👉 個人筆電推薦下載 **exe 安裝版**；若防毒攔截可下載 **安裝版 Zip**；學校公用/無權限電腦推薦下載 **免安裝綠色版**</sub>
 
 </div>
 
@@ -76,13 +78,13 @@
 ## 💻 系統需求與安裝說明
 
 * **作業系統**：Windows 10 / Windows 11 (64-bit)
-* **安裝與使用方式**：
-  * **方式 A（自動安裝版，推薦一般個人筆電）**：
-    1. 下載 [`安裝Puppy精靈.exe`](https://github.com/linyuchi58/PuppySprite/releases/latest/download/安裝Puppy精靈.exe)。
-    2. 雙擊執行安裝檔，依提示點選「下一步」，桌面即會自動建立捷徑！
-  * **方式 B（免安裝綠色版，推薦學校公用/無管理員權限電腦）**：
-    1. 前往 [Releases 發布頁面](https://github.com/linyuchi58/PuppySprite/releases/latest) 下載 `PuppySprite_v2.8.0_免安裝綠色版.zip` 壓縮檔。
-    2. 解壓縮後直接點擊資料夾內的 `puppy.exe` 即可免安裝立即使用！
+* **版本與下載選擇**：
+
+| 版本類型 | 檔案名稱 | 適合對象與使用方式 | 下載連結 |
+| :--- | :--- | :--- | :---: |
+| 💻 **自動安裝版** | `PuppySpriteInstall_v2.8.exe` | **最推薦！** 一般個人/家用筆電，雙擊後自動在桌面建立捷徑。 | [立即下載](https://github.com/linyuchi58/PuppySprite/releases/download/v2.8.0/PuppySpriteInstall_v2.8.exe) |
+| 📦 **安裝版 Zip 包** | `PuppySpriteInstall_v2.8.zip` | 若瀏覽器直接下載 exe 遭攔截，請下載此壓縮包，解壓後執行安裝。 | [立即下載](https://github.com/linyuchi58/PuppySprite/releases/download/v2.8.0/PuppySpriteInstall_v2.8.zip) |
+| 💼 **免安裝綠色版** | `PuppySprite_v2.8.0_.zip` | **學校公用/無權限電腦專用！** 解壓縮後直接點擊 `puppy.exe` 免安裝即用。 | [立即下載](https://github.com/linyuchi58/PuppySprite/releases/download/v2.8.0/PuppySprite_v2.8.0_.zip) |
 
 ---
 

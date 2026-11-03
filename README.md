@@ -1,23 +1,23 @@
 <div align="center">
 
-# 🐾 PuppySprite《汪汪小精靈》
+# 🐾 PuppySprite《汪汪小精靈》v2.9.2 旗艦正式版
 ### 互動桌面萌寵 ✕ 跨裝置智慧工作站 ✕ 實物投影展示台 ✕ 全能課堂教學神器
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)
-![Release](https://img.shields.io/badge/Version-v2.8.0%20Latest-success?style=for-the-badge)
+![Release](https://img.shields.io/badge/Version-v2.9.2%20Latest-success?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/linyuchi58/PuppySprite/total?style=for-the-badge&color=brightgreen&logo=github)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 <br/>
 
-**PuppySprite《汪汪小精靈》** 是一款徹底顛覆課堂教學與日常辦公效率的**「跨裝置智慧工作站 ✕ 實物投影機 ✕ 活潑桌面萌寵」**。  
+**PuppySprite《汪汪小精靈》v2.9.2** 是一款徹底顛覆課堂教學與日常辦公效率的**「跨裝置智慧工作站 ✕ 實物投影機 ✕ 活潑桌面萌寵」**。  
 不僅能在桌面陪伴您互動玩耍，更將手機與外接鏡頭變身為電腦的超強延伸——**手機拍照直接秒貼進電腦軟體、手機講話電腦游標處秒打字、截圖智慧去背一鍵貼回前軟體、內建實物投影機與講師浮動鏡頭**，加上全套課堂互動教具與雲端自動同步，讓備課、授課與日常作業事半功倍！
 
 <br/>
 
-[![Download EXE](https://img.shields.io/badge/💻_點此下載-自動安裝版_(.exe)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/latest/download/PuppySpriteInstall_v2.8.exe)
+[![Download EXE](https://img.shields.io/badge/💻_點此下載-自動安裝版_(.exe)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.9.2/PuppySpriteInstall_v2.9.2.exe)
 &nbsp;&nbsp;
-[![Download ZIP](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(.zip)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/latest)
+[![Download ZIP](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(.zip)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.9.2/PuppySprite_GreenVersion.zip)
 
 <sub>👉 個人/家用電腦推薦下載 **安裝版 (.exe)**；學校公用/無權限電腦推薦下載 **免安裝綠色版 (.zip)**</sub>
 
@@ -93,10 +93,10 @@
 * **作業系統**：Windows 10 / Windows 11 (64-bit)
 * **安裝與使用方式**：
   * **方式 A（自動安裝版，推薦一般個人筆電）**：
-    1. 下載 [`PuppySpriteInstall_v2.8.exe`](https://github.com/linyuchi58/PuppySprite/releases/latest/download/PuppySpriteInstall_v2.8.exe)。
+    1. 下載 [`PuppySpriteInstall_v2.9.2.exe`](https://github.com/linyuchi58/PuppySprite/releases/download/v2.9.2/PuppySpriteInstall_v2.9.2.exe)。
     2. 雙擊執行安裝檔，依提示點選「下一步」，桌面即會自動建立捷徑！
   * **方式 B（免安裝綠色版，推薦學校公用/無管理員權限電腦）**：
-    1. 前往 [Releases 發布頁面](https://github.com/linyuchi58/PuppySprite/releases/latest) 下載 `PuppySprite_v2.8.0_.zip` 壓縮檔。
+    1. 前往 [Releases 發布頁面](https://github.com/linyuchi58/PuppySprite/releases/latest) 下載 `PuppySprite_GreenVersion.zip 壓縮檔。
     2. 解壓縮後直接點擊資料夾內的 `puppy.exe` 即可免安裝立即使用！
 
 ---

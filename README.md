@@ -1,23 +1,23 @@
 <div align="center">
 
-# 🐾 PuppySprite《汪汪小精靈》v2.20.0 正式版
-### 互動桌面萌寵 ✕ 手機跨裝置工作站 ✕ 常用廣播與直行聯絡簿 ✕ 全能課堂教學神器
+# 🐾 PuppySprite《汪汪小精靈》v2.21.0 正式版
+### 互動桌面萌寵 ✕ 手機跨裝置工作站 ✕ 班級名單・座位表・桌上名牌 ✕ 全能課堂教學神器
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)
-![Release](https://img.shields.io/badge/Version-v2.20.0%20Latest-success?style=for-the-badge)
+![Release](https://img.shields.io/badge/Version-v2.21.0%20Latest-success?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/linyuchi58/PuppySprite/total?style=for-the-badge&color=brightgreen&logo=github)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 <br/>
 
 **PuppySprite《汪汪小精靈》** 是一隻會在桌面陪您上課、備課的小狗（也可以換成 3D 角色），同時也是老師的**教學百寶箱**。  
-手機拍照自動貼進電腦、手機講話電腦直接打字、截圖去背與取字、影片字幕即時翻譯、**螢幕錄影**，還有**📷 螢幕 QR 掃描**、**⏳ 粉紅沙漏倒數**、**午睡用的 🐠 海底世界**、**可加注音、可直行的 📒 聯絡簿黑板**和**定時自動播放的 📢 常用廣播**，再加上聚光燈、螢幕畫筆、計分板、倒數計時等全套課堂教具，讓備課與上課都更輕鬆！
+手機拍照自動貼進電腦、手機講話電腦直接打字、截圖去背與取字、影片字幕即時翻譯、**螢幕錄影**，還有**👥 班級名單、🪑 座位表、🪪 桌上名牌、⏰ 定時提醒**、**📷 螢幕 QR 掃描**、**⏳ 粉紅沙漏倒數**、**午睡用的 🐠 海底世界**、**可加注音、可直行的 📒 聯絡簿黑板**和**定時自動播放的 📢 常用廣播**，再加上聚光燈、螢幕畫筆、計分板、倒數計時等全套課堂教具，讓備課與上課都更輕鬆！
 
 <br/>
 
-[![Download EXE](https://img.shields.io/badge/💻_點此下載-自動安裝版_(.exe)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.20.0/PuppySpriteInstall_v2.20.0.exe)
+[![Download EXE](https://img.shields.io/badge/💻_點此下載-自動安裝版_(.exe)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.21.0/PuppySpriteInstall_v2.21.0.exe)
 &nbsp;&nbsp;
-[![Download ZIP](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(.zip)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.20.0/PuppySprite_GreenVersion.zip)
+[![Download ZIP](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(.zip)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.21.0/PuppySprite_GreenVersion.zip)
 
 <sub>👉 個人/家用電腦推薦下載 **安裝版 (.exe)**；學校公用/無權限電腦推薦下載 **免安裝綠色版 (.zip)**</sub>
 
@@ -25,7 +25,19 @@
 
 ---
 
-## 🆕 v2.20.0 新功能一覽
+## 🆕 v2.21.0 新功能一覽
+
+| 新功能 | 一句話說明 |
+|---|---|
+| 👥 **班級名單（NEW!）** | 可建好幾個班級；`1王小明`、`1,王小明`、從試算表複製「座號、姓名」兩欄貼上，都能自動辨識；也能匯入 Excel／CSV |
+| 🪑 **座位表編排（NEW!）** | 單人／雙人併桌／多人小組，講桌上下左右；拖曳排座位、依座號或隨機排入；匯出 PDF／PNG |
+| 🪪 **桌上名牌（NEW!）** | 對折雙面、壓克力插卡、三角立牌；9 種美工設計；自訂紙張、字體、上下說明文字，可加裁切線與對折線；匯出 PDF／PNG |
+| ⏰ **定時提醒（NEW!）** | 時間到桌面跳出聯絡簿風格的提醒；可延後 10 分鐘～1 天；每天、上課日、每週、每月重複；可用電腦語音念出內容 |
+| 🎡📊📋 **名單串接** | 抽籤轉盤、個人計分、剪貼簿（點姓名直接貼上）都能用目前班級的名單 |
+
+---
+
+## 🆕 v2.20.0 新功能
 
 | 新功能 | 一句話說明 |
 |---|---|
@@ -208,7 +220,7 @@
 * **作業系統**：Windows 10 / Windows 11（64-bit）
 * **安裝與使用方式**：
   * **方式 A（自動安裝版，推薦一般個人筆電）**：
-    1. 下載 [`PuppySpriteInstall_v2.20.0.exe`](https://github.com/linyuchi58/PuppySprite/releases/download/v2.20.0/PuppySpriteInstall_v2.20.0.exe)。
+    1. 下載 [`PuppySpriteInstall_v2.21.0.exe`](https://github.com/linyuchi58/PuppySprite/releases/download/v2.21.0/PuppySpriteInstall_v2.21.0.exe)。
     2. 雙擊執行安裝檔，依提示點選「下一步」，桌面即會自動建立捷徑！
   * **方式 B（免安裝綠色版，推薦學校公用/無管理員權限電腦）**：
     1. 前往 [Releases 發布頁面](https://github.com/linyuchi58/PuppySprite/releases/latest) 下載 `PuppySprite_GreenVersion.zip` 壓縮檔。

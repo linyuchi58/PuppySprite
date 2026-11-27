@@ -1,23 +1,23 @@
 <div align="center">
 
-# 🐾 PuppySprite《汪汪小精靈》v2.21.0 正式版
-### 互動桌面萌寵 ✕ 手機跨裝置工作站 ✕ 班級名單・座位表・桌上名牌 ✕ 全能課堂教學神器
+# 🐾 PuppySprite《汪汪小精靈》v2.22.1 正式版
+### 互動桌面萌寵 ✕ 手機跨裝置工作站 ✕ 🎙 錄音剪輯 ✕ 班級名單・座位表・桌上名牌 ✕ 全能課堂教學神器
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows)
-![Release](https://img.shields.io/badge/Version-v2.21.0%20Latest-success?style=for-the-badge)
+![Release](https://img.shields.io/badge/Version-v2.22.1%20Latest-success?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/linyuchi58/PuppySprite/total?style=for-the-badge&color=brightgreen&logo=github)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
 <br/>
 
 **PuppySprite《汪汪小精靈》** 是一隻會在桌面陪您上課、備課的小狗（也可以換成 3D 角色），同時也是老師的**教學百寶箱**。  
-手機拍照自動貼進電腦、手機講話電腦直接打字、截圖去背與取字、影片字幕即時翻譯、**螢幕錄影**，還有**👥 班級名單、🪑 座位表、🪪 桌上名牌、⏰ 定時提醒**、**📷 螢幕 QR 掃描**、**⏳ 粉紅沙漏倒數**、**午睡用的 🐠 海底世界**、**可加注音、可直行的 📒 聯絡簿黑板**和**定時自動播放的 📢 常用廣播**，再加上聚光燈、螢幕畫筆、計分板、倒數計時等全套課堂教具，讓備課與上課都更輕鬆！
+手機拍照自動貼進電腦、手機講話電腦直接打字、截圖去背與取字、影片字幕即時翻譯、**螢幕錄影**、**🎙 錄音機（可錄電腦聲音、剪輯後存 MP3）**，還有**👥 班級名單、🪑 座位表、🪪 桌上名牌、⏰ 定時提醒**、**📷 螢幕 QR 掃描**、**⏳ 粉紅沙漏倒數**、**午睡用的 🐠 海底世界**、**可加注音、可直行的 📒 聯絡簿黑板**和**定時自動播放的 📢 常用廣播**，再加上聚光燈、螢幕畫筆、計分板、倒數計時等全套課堂教具，讓備課與上課都更輕鬆！
 
 <br/>
 
-[![Download EXE](https://img.shields.io/badge/💻_點此下載-自動安裝版_(.exe)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.21.0/PuppySpriteInstall_v2.21.0.exe)
+[![Download EXE](https://img.shields.io/badge/💻_點此下載-自動安裝版_(.exe)-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.22.1/PuppySpriteInstall_v2.22.1.exe)
 &nbsp;&nbsp;
-[![Download ZIP](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(.zip)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.21.0/PuppySprite_GreenVersion.zip)
+[![Download ZIP](https://img.shields.io/badge/💼_點此下載-免安裝綠色版_(.zip)-blue?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/linyuchi58/PuppySprite/releases/download/v2.22.1/PuppySprite_GreenVersion.zip)
 
 <sub>👉 個人/家用電腦推薦下載 **安裝版 (.exe)**；學校公用/無權限電腦推薦下載 **免安裝綠色版 (.zip)**</sub>
 
@@ -25,7 +25,19 @@
 
 ---
 
-## 🆕 v2.21.0 新功能一覽
+## 🆕 v2.22.1 新功能一覽
+
+| 新功能 | 一句話說明 |
+|---|---|
+| 🎙 **錄音機（NEW!）** | 放在常用工具「螢幕錄影」旁邊。可錄 🎤 麥克風、🔊 電腦正在播的聲音（影片、音樂、簡報音效，不用另外設定立體聲混音），兩個都勾就合併成一個檔，邊放影片邊講解也沒問題；48kHz 高音質，錄音中可暫停 |
+| ✂ **波形剪輯** | 綠線起點、紅線終點直接拖曳，還有 ±0.05／±0.5 秒微調；調整後自動試聽；「✂ 排除中間一段」可以把中間講錯的地方剪掉，接縫自動淡化不會「喀」一聲；一鍵去頭尾靜音 |
+| 🟣 **紫色定位點** | 在波形上點兩下放定位點，「▶ 從紫色定位點播放」（鍵盤 P）從那裡開始聽，不用每次從頭播 |
+| 📂 **載入錄音檔** | 舊錄音或 MP3、WAV、WMA、M4A、OGG、FLAC，甚至 MP4 影片的聲音都能載入剪輯；另存時自動加「_剪輯」，原檔不會被蓋掉 |
+| 💾 **存檔與分享** | 存成 MP3（320k）或 WMA（192k）；音量自動調整、頭尾淡入淡出；存好按「📋 複製檔案」，到 LINE、Teams 直接 Ctrl+V 貼上 |
+
+---
+
+## 🆕 v2.21.0 新功能
 
 | 新功能 | 一句話說明 |
 |---|---|
@@ -184,7 +196,7 @@
   * ★ 最愛、最近用過、搜尋；內建 14 個教學常用模版。
 * **📊 個人計分 ✕ 🏆 小組計分**：直覺加減分、全螢幕頒獎、查前 7 天紀錄。
 * **📢 常用廣播 ✕ ⏱ 倒數計時（可切換沙漏）✕ 🎡 抽籤轉盤 ✕ 🕐 考場時鐘看板（可倒數）✕ 🤫 全螢幕請安靜 ✕ 🐠 海底世界 ✕ 📒 聯絡簿黑板**
-* **⏺ 螢幕錄影 ✕ 🔗 網址／Wi-Fi QR Code ✕ 📷 QR 掃描 ✕ 🎓 上課模式**
+* **⏺ 螢幕錄影 ✕ 🎙 錄音機 ✕ 🔗 網址／Wi-Fi QR Code ✕ 📷 QR 掃描 ✕ 🎓 上課模式**
 * **🤐 教室分貝計 ✕ 📯 課堂音效盒 ✕ 🔊 電腦音量 ✕ 🧮 計算機**
 * **📝 桌面便利貼（剪貼簿點一下就能貼進便利貼）✕ 🔣 特殊符號面板 ✕ 📁 常用資料夾 ✕ 🔗 常用教學網頁 ✕ 🎮 教學遊戲**
 * **🔤 複製文字點狗頭自動翻譯 ✕ ⚙ 電腦常用設定與快捷鍵**
@@ -220,7 +232,7 @@
 * **作業系統**：Windows 10 / Windows 11（64-bit）
 * **安裝與使用方式**：
   * **方式 A（自動安裝版，推薦一般個人筆電）**：
-    1. 下載 [`PuppySpriteInstall_v2.21.0.exe`](https://github.com/linyuchi58/PuppySprite/releases/download/v2.21.0/PuppySpriteInstall_v2.21.0.exe)。
+    1. 下載 [`PuppySpriteInstall_v2.22.1.exe`](https://github.com/linyuchi58/PuppySprite/releases/download/v2.22.1/PuppySpriteInstall_v2.22.1.exe)。
     2. 雙擊執行安裝檔，依提示點選「下一步」，桌面即會自動建立捷徑！
   * **方式 B（免安裝綠色版，推薦學校公用/無管理員權限電腦）**：
     1. 前往 [Releases 發布頁面](https://github.com/linyuchi58/PuppySprite/releases/latest) 下載 `PuppySprite_GreenVersion.zip` 壓縮檔。
@@ -229,6 +241,7 @@
 * **截圖取字／區塊翻譯**：使用 Windows 內建的文字辨識；要辨識日文、韓文等，請先在「設定 → 時間與語言 → 語言」加入該語言。區塊翻譯需要網路。
 * **從舊版升級**：直接安裝新版、裝到原本的資料夾即可，設定、便利貼、剪貼簿、計分板等資料都會保留。從 v2.15 以前升級的老師，手機快拍改成每台電腦各自的配對碼，請用手機重新掃一次 QR Code。
 * **螢幕錄影**：預設錄「系統預設麥克風」；錄影設定視窗裡的音量條會跳動，就表示收得到聲音。
+* **錄音機**：錄音檔存在「文件\汪汪小精靈錄音」，可以自己換資料夾；錄「電腦內部聲音」時，喇叭要有在播放聲音才錄得到。
 
 ---
 
